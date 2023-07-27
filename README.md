@@ -1,0 +1,1 @@
+# bazel_build_example
