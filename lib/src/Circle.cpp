@@ -36,7 +36,7 @@ double Circle::rad() const {
 }
 
 Point Circle::ctr() const {
-	return center; //spits out Point center	
+	return this->center; //spits out Point center	
 }
 
 void Circle::rad(const double& newR_value) {
